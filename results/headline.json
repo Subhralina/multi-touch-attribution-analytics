@@ -1,0 +1,25 @@
+{
+  "touchpoints": 586737,
+  "journeys": 240108,
+  "unique_paths": 11374,
+  "conversions": 17639,
+  "conversion_rate": 0.07346277508454528,
+  "conversion_value": 110231.0,
+  "date_min": "2018-07-01",
+  "date_max": "2018-07-31",
+  "single_touch_share": 0.5142019424592267,
+  "median_path_length": 1.0,
+  "last_touch_gap_ig_minus_display": 0.005953,
+  "markov_gap_ig_minus_display": 0.051303000000000015,
+  "markov_gap_ci": [
+    0.04631607308060326,
+    0.056402282688511864
+  ],
+  "markov_gap_prob_positive": 1.0,
+  "shapley_gap_ig_minus_display": 0.02741100000000002,
+  "shapley_gap_ci": [
+    0.0203120816931704,
+    0.034038649642740205
+  ],
+  "bootstrap_replicates": 500
+}
